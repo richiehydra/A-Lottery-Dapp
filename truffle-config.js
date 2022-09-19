@@ -19,7 +19,7 @@
  */
 
 const HDWalletProvider = require('@truffle/hdwallet-provider');
-const mnemonic="world boost cart list flash bid trip sport pact useless hunt matrix";
+const mnemonic="secret key ";
 //
 // const fs = require('fs');
 // const mnemonic = fs.readFileSync(".secret").toString().trim();
